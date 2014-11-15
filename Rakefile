@@ -136,7 +136,7 @@ namespace :theme do
       open(File.join(CONFIG['layouts'], File.basename(filename)), 'w') do |page|
         if File.basename(filename, ".html").downcase == "default"
           page.puts "---"
-          page.puts File.read(settings_file) if File.exist?(settings_file)
+          page.puts File.read(settings_file,:encoding=>"utf-8") if File.exist?(settings_file)
           page.puts "---"
         else
           page.puts "---"
