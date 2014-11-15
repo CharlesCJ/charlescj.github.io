@@ -8,13 +8,13 @@ tags: [others]
   
 ## 拥有github账号
 
-![1](../assets/themes/Snail/img/firstGitHubBlog/1.png)
+![1](http://charlescj.github.io/assets/themes/Snail/img/firstGitHubBlog/1.png)
 
 创建账号后。顺便完整一下用户信息。
 
 <!--more-->
 
-![2](../assets/themes/Snail/img/firstGitHubBlog/2.png)
+![2](http://charlescj.github.io/assets/themes/Snail/img/firstGitHubBlog/2.png)
 
   
 ## New repository
