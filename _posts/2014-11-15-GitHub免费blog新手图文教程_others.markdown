@@ -8,6 +8,8 @@ tags: [others]
   
 ## 1.拥有github账号
 
+<img alt="1" style="float:left" src="http://charlescj.github.io/assets/themes/Snail/img/firstGitHubBlog/1.png" />
+
 ![1](http://charlescj.github.io/assets/themes/Snail/img/firstGitHubBlog/1.png)
 
   创建账号后。顺便完整一下用户信息。
