@@ -1,7 +1,7 @@
 ---
 layout: post
 category: others
-title: GitHub免费blog新手图文教程
+title: win7_GitHub免费blog新手图文教程
 tagline: by CJ
 tags: [others]
 ---
