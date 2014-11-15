@@ -5,7 +5,7 @@ title: GitHub免费blog新手图文教程
 tagline: by CJ
 tags: [others]
 ---
-### 拥有github账号
+## 拥有github账号
 
 ![1](../assets/themes/Snail/img/firstGitHubBlog/1.png)
 
@@ -16,7 +16,7 @@ tags: [others]
 ![2](../assets/themes/Snail/img/firstGitHubBlog/2.png)
 
 
-### New repository
+## New repository
 
 ![13](../assets/themes/Snail/img/firstGitHubBlog/13.png)
 
@@ -32,7 +32,7 @@ tags: [others]
 
 
 
-### 找模板为己用
+## 找模板为己用
 如果想省点时间，或者自己制作不出好看的风格。那还是找个好看的模板吧。
 http://jekyllthemes.org/
 这里面有一些不错的模板…
@@ -68,6 +68,6 @@ Commit to master之后，点击右上角的Publish Repository。
 
 ![14](../assets/themes/Snail/img/firstGitHubBlog/14.png)
 
-### end
+## end
 
 到这边就差不多介绍完了，如果有问题或疑惑，可以留言或者email。
