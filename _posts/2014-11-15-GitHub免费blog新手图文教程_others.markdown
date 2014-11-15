@@ -23,7 +23,8 @@ tags: [others]
 
 ![11](http://charlescj.github.io/assets/themes/Snail/img/firstGitHubBlog/11.png)
 
-  创建了一个空项目后，settings-->Automatic page generator-->continue to layouts-->选择喜欢的主题-->publish page
+  创建了一个空项目后，settings-->Automatic page generator-->continue to layouts-->
+  选择喜欢的主题-->publish page
 
   以上做完就可以自己提交博客了。
 
@@ -31,7 +32,7 @@ tags: [others]
 
 ![3](http://charlescj.github.io/assets/themes/Snail/img/firstGitHubBlog/3.png)
   
-## 找模板为己用
+## 3.找模板为己用
 如果想省点时间，或者自己制作不出好看的风格。那还是找个好看的模板吧。
 http://jekyllthemes.org/
 这里面有一些不错的模板…
@@ -65,6 +66,6 @@ Commit to master之后，点击右上角的Publish Repository。
 
 ![14](http://charlescj.github.io/assets/themes/Snail/img/firstGitHubBlog/14.png)
   
-## end
+## 4.end
 
 到这边就差不多介绍完了，如果有问题或疑惑，可以留言或者email。
