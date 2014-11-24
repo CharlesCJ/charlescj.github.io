@@ -41,7 +41,8 @@ ip2:192.168.1.135
         which: no java in (/sbin:/usr/sbin:/bin:/usr/bin)  
         Could not find any executable java binary. Please install java in your PATH or set JAVA_HOME
 
-    如果遇到此问题，解决方法如下（如本身服务器已经配置妥当，请略过）：
+    如果遇到此问题，请查看jdk版本，可能已被变成服务器安装时自带的低版本jdk  
+    解决方法如下（如本身服务器已经配置妥当，请略过）：
 
         [root@localhost ~]# cd /usr/bin/
         [root@localhost bin]# ln -s -f /usr/local/jdk1.7.0_71/bin/javac
