@@ -26,6 +26,8 @@ ip2:192.168.1.135
         gpgkey=http://packages.elasticsearch.org/GPG-KEY-elasticsearch
         enabled=1
  
+ <!--more-->
+ 
 * Install  
 
         [root@localhost ~]# yum install elasticsearch
