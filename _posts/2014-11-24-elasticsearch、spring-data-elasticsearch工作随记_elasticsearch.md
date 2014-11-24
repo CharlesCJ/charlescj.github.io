@@ -1,7 +1,7 @@
 ---
 layout: post
 category: elasticsearch
-title: elasticsearch、spring-data-elasticsearch工作随记
+title: elasticsearch工作随记
 tagline: by CJ
 tags: [elasticsearch]
 ---
