@@ -53,7 +53,8 @@ ip2:192.168.1.135
 * 开启防火墙端口  
     /etc/sysconfig/iptables中添加9200端口（elasticsearch默认端口）：
     
-        -A INPUT -p tcp -m tcp --dport 9200 -j ACCEPT
+        -A INPUT -p tcp -m tcp --dport 9200 -j ACCEPT  
+
     浏览器访问ip:9200  
     ip:9200中"status" : 200则表示OK
 
