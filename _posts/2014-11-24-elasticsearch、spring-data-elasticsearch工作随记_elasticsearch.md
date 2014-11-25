@@ -21,7 +21,7 @@ ip2:192.168.1.135
 
         [elasticsearch-1.2]
         name=Elasticsearch repository for 1.2.x packages
-        baseurl=http://packages.elasticsearch.orgS/elasticsearch/1.2/centos
+        baseurl=http://packages.elasticsearch.org/elasticsearch/1.2/centos
         gpgcheck=1
         gpgkey=http://packages.elasticsearch.org/GPG-KEY-elasticsearch
         enabled=1
