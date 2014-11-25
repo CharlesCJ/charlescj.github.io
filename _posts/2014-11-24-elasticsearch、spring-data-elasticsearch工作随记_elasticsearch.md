@@ -90,7 +90,7 @@ ip2:192.168.1.135
 安装完成之后,在浏览器输入:http://ip:9200/_plugin/bigdesk/ ,可以查看显示效果
 
 ### 4.cluster.name相同，nodename不同，elasticsearch会自动集群。  
-http://192.168.1.126:9200/_plugin/bigdesk 这样就能看到两个note
+http://192.168.1.126:9200/_plugin/bigdesk 这样就能看到两个node
 
 ### 5.安装IK中文分词插件到服务器(elasticsearch自带的分词会把中文分成一个个字而不是词组)
 * 获取分词的依赖包  
