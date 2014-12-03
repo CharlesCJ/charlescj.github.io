@@ -1,3 +1,11 @@
+---
+layout: post
+category: elasticsearch
+title: es_API
+tagline: by CJ
+tags: [elasticsearch]
+---
+
 # ***es 1.0 API***
  
 ## 简述
@@ -27,8 +35,9 @@
 | index        | 是否使用分词插件|  
 | store        | 是否存储      | 
 | format       | 日期时间类型   | 
-| indexAnalyzer| 分词插件      |
+| indexAnalyzer| 分词插件      |  
 
+ <!--more-->
 
 >#### 1. BaseCoreTypes
 >指定field的type类型  
