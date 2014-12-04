@@ -158,12 +158,12 @@ http://192.168.1.126:9200/_plugin/bigdesk 这样就能看到两个node
 	
 ### 6.elasticsearch的java api调用demo
 下面是最近做的demo  
-https://github.com/CharlesCJ/es
+https://github.com/CharlesCJ/es_demo
 
 	
 ### 7.spring-data-elasticsearch的demo
 下面是最近做的demo  
-https://github.com/CharlesCJ/springes
+https://github.com/CharlesCJ/springes_demo
 
 ### 8.后记  
 个人工作随记，希望对大家有帮助
