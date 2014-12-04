@@ -161,9 +161,10 @@ http://192.168.1.126:9200/_plugin/bigdesk 这样就能看到两个node
 https://github.com/CharlesCJ/es_demo
 
 	
-### 7.spring-data-elasticsearch的demo
-下面是最近做的demo  
-https://github.com/CharlesCJ/springes_demo
+### 7.spring-data-elasticsearch的中间service，透明化elasticsearch
+https://github.com/CharlesCJ/springes  
+如果只是自己使用，直接用elasticsearchTemplate比较方便。
+
 
 ### 8.后记  
 个人工作随记，希望对大家有帮助
