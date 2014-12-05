@@ -98,7 +98,8 @@ http://192.168.1.126:9200/_plugin/bigdesk 这样就能看到两个node
         [root@localhost caojian]# git clone https://github.com/medcl/elasticsearch-analysis-ik
 * 打包生成elasticsearch-analysis-ik.jar  
 
-	    [root@localhost caojian]# wget http://gitsea.qiniudn.com/elasticsearch-analysis-ik-1.2.6.jar
+	    [root@localhost caojian]# wget http://gitsea.qiniudn.com/elasticsearch-analysis-ik-1.2.6.jar  
+	    
     或者把上面下载的源码包打成jar包  
 
 	    [root@localhost caojian]# jar cvf elasticsearch-analysis-ik.jar elasticsearch-analysis-ik
