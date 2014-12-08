@@ -149,7 +149,7 @@ http://192.168.1.126:9200/_plugin/bigdesk 这样就能看到两个node
 		}'
 * 测试分词结果  
 
-	[root@localhost elasticsearch]# curl 'http://localhost:9200/index/_analyze?analyzer=ik&pretty=true' -d '
+		[root@localhost elasticsearch]# curl 'http://localhost:9200/index/_analyze?analyzer=ik&pretty=true' -d '
 	    {
 	    	"content":"中国人民共和国"
     	}'
