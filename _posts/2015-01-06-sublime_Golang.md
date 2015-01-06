@@ -3,7 +3,7 @@ layout: post
 category: sublime
 title: Mac OS X下Sublime Text 2中Golang开发环境搭建
 tagline: by CJ
-tags: [sublime]
+tags: [sublime][go]
 ---
 
 ### 一、安装Golang的SDK
@@ -30,15 +30,15 @@ Ctrl＋｀ 打开命令行，执行如下代码：
 #### 2.安装GoSublime插件
 Command + Shift + P 打开Package Control，然后输入pcip（Package Control:Install Package的缩写），如下图所示：  
 
-![1](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime2.png)  
+![2](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime2.png)  
 
 在随后的界面中输入gosublime，回车，就可以安装GoSbulime了。（这个插件的源代码在 https://github.com/DisposaBoy/GoSublime）  
 
-![1](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime3.png)  
+![3](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime3.png)  
 
 安装完成后，可以看到gosublime的插件选项了：  
 
-![1](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime4.png)
+![4](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime4.png)
 
 #### 3.初步Golang
 File－>open...可以打开一个已有的go项目或者新建一个。  
@@ -52,7 +52,7 @@ File－>open...可以打开一个已有的go项目或者新建一个。
 #### 4.更换主题
 sublime默认的主题的左侧目录栏是白色底，但是比较喜欢sublime的黑色风格，于是用了Flatland主题，感觉不错。附上效果图：  
 
-![1](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime5.png)  
+![5](http://charlescj.github.io/assets/themes/Snail/img/sublime/sublime5.png)  
 
 
 主题位置：https://github.com/thinkpixellab/flatland  
