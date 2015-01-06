@@ -3,10 +3,8 @@ layout: post
 category: sublime
 title: Mac OS X下Sublime Text 2中Golang开发环境搭建
 tagline: by CJ
-tags: [sublime],[go]
+tags: [sublime]
 ---
-
-## Mac OS X下Sublime Text 2中Golang开发环境搭建
 
 ### 一、安装Golang的SDK
 在官网http://golang.org/上下载pkg格式的安装包，直接双击运行安装。
